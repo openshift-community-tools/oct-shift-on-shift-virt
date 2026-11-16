@@ -70,8 +70,8 @@ github.com/onsi/ginkgo/v2 v2.19.0 h1:9Cnnf7UHo57Hy3k6/m5k3dRfGTMXGvxhHFvkDTCTpvA
 github.com/onsi/ginkgo/v2 v2.19.0/go.mod h1:rlwLi9PilAFJ8jCg9UE1QP6VBpd6/xj3SRC0d6TU0To=
 github.com/onsi/gomega v1.19.0 h1:4ieX6qQjPP/BfC3mpsAtIGGlxTWPeA3Inl/7DtXw1tw=
 github.com/onsi/gomega v1.19.0/go.mod h1:LY+I3pBVzYsTBU1AnDwOSxaYi9WoWiqgwooUqq9yPro=
-github.com/openshift-community-tools/oct-storefront/backend-security-kit v0.2.0 h1:WQ3BYPbR+7Mv26gjX/O3pXF9KwTcQkxEovu5oJ7hBUQ=
-github.com/openshift-community-tools/oct-storefront/backend-security-kit v0.2.0/go.mod h1:ybGMKDlc/38HZJDl0jzNV6k1uBtIV03KCwv84aCY1kA=
+github.com/openshift-community-tools/oct-storefront/backend-security-kit v0.2.1 h1:LOheGte5/EDxx3N3TkB035jCj22+tPVdzOevpNmlpDU=
+github.com/openshift-community-tools/oct-storefront/backend-security-kit v0.2.1/go.mod h1:ybGMKDlc/38HZJDl0jzNV6k1uBtIV03KCwv84aCY1kA=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=

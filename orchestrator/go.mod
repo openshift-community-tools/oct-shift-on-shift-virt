@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/google/uuid v1.6.0
-	github.com/openshift-community-tools/oct-storefront/backend-security-kit v0.2.0
+	github.com/openshift-community-tools/oct-storefront/backend-security-kit v0.2.1
 	golang.org/x/crypto v0.31.0
 	k8s.io/api v0.31.4
 	k8s.io/apimachinery v0.31.4
